@@ -1,0 +1,38 @@
+.check-container {
+	padding: 100px;
+	text-align: center;
+}
+
+form {
+	width: 50%;
+	margin: auto;
+}
+
+body {
+	background-color: #39CCCC;
+}
+
+.result {
+	height: 100px;
+	width: 50%;
+	margin: auto;
+	background-color: gray;
+}
+
+.all-time-data {
+	width: 50%;
+	margin: auto;
+}
+
+.table {
+	height: 100px;
+	/*width: 50%;
+	margin: auto;*/
+	background-color: lightgray;
+	margin-bottom: 50px;
+}
+
+h3 {
+	width: 50%;
+	margin: auto;
+}
